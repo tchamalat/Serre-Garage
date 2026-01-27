@@ -8,6 +8,14 @@
 - Bac de terre suptémentair à l'intérieur
 
 ## Contrainte pour les fraises
+| parametre     | objetif            | Notes                                     |
+| ------------- | ----------------- | ------------------------------------------ |
+| Air Temp      | 20–28 °C          | jamais en dessous 18 °C                    |
+| Soil Temp     | 20–25 °C          |aide les racines absormer les nutriments    |
+| humidite      | 50–70 %           | evité les champignons        |
+| lumiere         | 12–16 h/day       |      |
+| Humidite du sol | Keep evenly moist | eviter de suraroser                      |
+| ph du sol       | 6.0–6.5           | legerement acide  |
 
 ## Structure électronique
 
